@@ -9,4 +9,4 @@ Thundermarch is the heaviest module under Incandescence, NIT Silchar.Yes, it is 
 
 ///*******hammer on
 
-Hammer On serves as an online platform for all the budding string maestros to showcase their skills, be it shredding, djenting, swift picking or those groovy tunes. Judged by some of the paramount names from the world of guitars, this competition is "THE" platform for taking your guitar skills to the next level. All genres of strumming and plucking is most welcome.     
+Hammer On serves as an online platform for all the budding string maestros to showcase their skills, be it shredding, djenting, swift picking or those groovy tunes. Judged by some of the paramount names from the world of guitars, this competition is "THE" platform for taking your guitar skills to the next level. All genres of strumming and plucking is most welcome    
